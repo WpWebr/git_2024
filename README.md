@@ -113,4 +113,4 @@
 - полностью удаляет коммиты:
 >git reset --hard {хеш}
 
-## Дополнительные материалы
+## [Дополнительные материалы](https://rufri.ru/30-osnovnyh-komand-git-dlja-upravlenie-repozitorijami-github/)
