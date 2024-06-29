@@ -20,7 +20,7 @@
 
 - переходим на https://github.com/
 - создаём новый репозиторий
-- копируем его адрес {url}
+- копируем его адрес `{url}`
 
 - Связываем локальный и удаленный репозиторий:
 >git remote add origin {url}
@@ -116,5 +116,5 @@
 ## Дополнительные материалы
 
 ### [Статья "... 30 команд ..."](https://rufri.ru/30-osnovnyh-komand-git-dlja-upravlenie-repozitorijami-github/)
-### [Док-а на Git](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git)
+### [Док-я на Git](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git)
 ### [Интерактивный онлайн-курс](https://learngitbranching.js.org/?locale=ru_RU)
